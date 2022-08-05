@@ -1,7 +1,7 @@
 # Data-Visualisation-and-Dashboarding
 
 Knife crime has become one of the most important social issues the UK is facing in recent years. Knife crime rates follow the same trend and have been increasing, 
-although the highest in London. This year more teenagers were killed in London than at any other point in the last 18 years even following covid lockdowns. 
+although the highest in London. This year (2021) more teenagers were killed in London than at any other point in the last 18 years even following covid lockdowns. 
 This poses the question: 
 
 ***Why is knife crime so severe in London?*** 
